@@ -3,7 +3,7 @@
 - Mayra Díaz Tramontana 201910147
 - Maor Roizman Gheiler 201810323
 
-*Link del repositorio:* **[Github](https://)**
+*Link del repositorio:* **[Github](https://github.com/mayra-diaz/InvertedIndex)**
 
 
 ## Estructura
